@@ -7,7 +7,5 @@
         <string>NDEF</string>
         <string>TAG</string>
     </array>
-    <key>com.apple.developer.nearby-interaction</key>
-    <true/>
 </dict>
 </plist>
